@@ -1,7 +1,7 @@
 
 # Shortlane
 
-Simple script for using fpga tools and asic tools for the same verilog file. All you need is a verilog file and a constraint file for your gowin GW1N-1 fpga and you are ready to go
+Simple script for using fpga tools and asic tools for the same verilog file. All you need is a verilog file and a constraint file for your gowin GW1N-1 fpga and you are ready to go. It is written for gowin gw1n-1 fpga but will be expanded
 
 ## Prerequisites
 
