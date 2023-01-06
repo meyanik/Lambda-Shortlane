@@ -38,6 +38,7 @@ select opt in comb seq; do
       ;;
     seq)
       cp /foss/designs/TangNano/led_btn/cfg/seq/config.json /foss/tools/openlane/2022.12/designs/$filename/
+      sed -i "s/To_Be_Replaced/$filename/g" /foss/tools/openlane/2022.12/designs/$filename/config.json
 	exit 0
       ;;
     *) 
