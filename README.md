@@ -9,6 +9,7 @@ Simple script for using fpga tools and asic tools for the same verilog file. All
  - [Nextpnr for gowin devices](https://github.com/YosysHQ/nextpnr)
  - [Yosys](https://github.com/YosysHQ/yosys)
  - [Klayout](https://github.com/KLayout/klayout)
+ - [Open-Fpga-Loader](https://github.com/trabucayre/openFPGALoader)
 
 
 ### Environment Variables
