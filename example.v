@@ -1,4 +1,4 @@
-module led_btn(
+module example(
 input a,b,c,d,
 output A,B,C,D,E,F,G
 
